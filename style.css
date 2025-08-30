@@ -142,6 +142,10 @@ body {
   display: none;
 }
 
+.offers {
+  position: relative;
+}
+
 .offers-desktop-decor {
   display: none;
 }
