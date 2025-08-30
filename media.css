@@ -70,15 +70,15 @@
   }
 
   .header-button {
-    padding: 15px 45px;
     border: none;
+    padding: 15px;
     background-color: #FB4B4D;
     font-family: inherit;
     text-transform: uppercase;
     color: white;
     cursor: pointer;
   }
-  
+
   .offers-cards {
     flex-wrap: nowrap;
     padding-top: 60px;
@@ -110,6 +110,10 @@
 
   .hero .marquee {
     border-bottom: none;
+  }
+
+  .header-button {
+    padding-inline: 45px;
   }
 
 
