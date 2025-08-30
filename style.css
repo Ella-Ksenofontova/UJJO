@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding-inline: 21px;
   text-transform: uppercase;
-  font-family: "Roboto";
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
 }
 
 .visually-hidden {
