@@ -83,6 +83,13 @@
     flex-wrap: nowrap;
   }
 
+  .offers-desktop-decor {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 22px 21px;
+  }
+
   .story {
     padding: 130px 170px;
   }
